@@ -1,0 +1,16 @@
+Animation and Animator 
+
+Entety--->MCIdle
+
+ 
+MCIdle ----->MCJummping
+Grounded is false
+
+MCJummping ----->MCIdle
+Grounded is true
+
+MCIdle--->MCRunning
+speed greater than 0.1
+
+MCRunning--->MCIdle
+speed less than 0.1

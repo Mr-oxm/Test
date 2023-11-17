@@ -1,0 +1,11 @@
+Enemy
+create empty EnemyController
+
+WalkingEnemy 
+Rigid Body
+2x Box collider the head of the enemy add isTrigger
+Walking Enemy
+
+Flying Enemy
+Cricle Collider
+Flying Enemy Script

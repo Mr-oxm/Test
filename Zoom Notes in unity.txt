@@ -1,0 +1,16 @@
+Main Camera Notes in unity
+Camera Follow 
+Targer Player
+CameraSpeed 4
+Min X 0
+Max X 100
+Min y 1
+Max Y 12
+
+Cam Zoom
+Zoom Speed 1.5
+Zbutton Z
+
+Mouse Zoom 
+Target Zoom 3
+Zoom Speed 3

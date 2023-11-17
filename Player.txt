@@ -1,0 +1,21 @@
+Player
+Tag Player
+
+-Component
+
+BoxCollider2D
+
+RigidBody 2d
+freeze Rotation Z
+
+-Scripts
+PlayerController(Add values to unity ex Move speed 6)
+Create an Empty object named ground check and add in this script
+
+PlayerStats
+
+Health 6
+lives 3
+flicker Duration 0.1
+Immunity duration 1.5
+coins collected 0

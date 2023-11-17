@@ -1,0 +1,17 @@
+Spikes& Checkpoints& LevelManger Unity
+Spike 
+Box Collider 
+- Is trigger Checked
+Spikes (Script)
+
+Checkpoint
+Box Collider 
+- Is trigger Checked
+Checkpoint Script
+
+
+Level Manger Empty Object
+add script LevelManger
+Level Manger Script
+Current CheckPoint add the Checkpont Perfab 
+in Enemy add Walking Enemy perfab
